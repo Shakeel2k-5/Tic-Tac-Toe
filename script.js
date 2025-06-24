@@ -60,6 +60,30 @@ function checkScore()
             infoDisplay.textContent = "Cross wins!"
             allSquares.forEach(square => square.replaceWith(square.cloneNode(true)))
             return 
-        }
+
+
+
+    }
     })
+
+)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+C
 }
